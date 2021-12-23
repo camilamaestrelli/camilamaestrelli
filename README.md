@@ -23,7 +23,8 @@
 
 ## Find me around the world :earth_americas:
 
-*  [Linkedin]( https://www.linkedin.com/in/camila-maestrelli-leobons/)
+*  [Linkedin](https://www.linkedin.com/in/camila-maestrelli-leobons/)
+*  [Power BI](https://sites.google.com/view/portflio-bi-camilamaestrelli)
 
 
 
