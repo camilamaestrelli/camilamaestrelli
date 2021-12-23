@@ -10,7 +10,7 @@
 
 * 👩‍💻 Data Scientist Student.
 * 📚 Researcher.
-* 👩‍🎓 Bachelor in Civil Engineering -UFRJ.
+* 👩‍🎓 Bachelor in Civil Engineering - UFRJ.
 * 🎓 Master in Transportation Engineering - IME.
 
 
