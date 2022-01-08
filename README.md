@@ -8,8 +8,8 @@
 ## Who am I? 
 
 
-* 👩‍💻 Data Scientist Student.
-* 📚 Researcher.
+* 👩‍💻 Data Analyst
+* 📚 Data Scientist Student.
 * 👩‍🎓 Bachelor in Civil Engineering - UFRJ.
 * 🎓 Master in Transportation Engineering - IME.
 
@@ -24,14 +24,13 @@
 ## Find me around the world :earth_americas:
 
 *  [Linkedin](https://www.linkedin.com/in/camila-maestrelli-leobons/)
-*  [Power BI](https://sites.google.com/view/portflio-bi-camilamaestrelli)
 
 
 
 ## **My projects**
 
 * [Diabetes Probability Prediction](https://github.com/camilamaestrelli/Diabetes_probability_prediction)
-
+* [Power BI](https://sites.google.com/view/portflio-bi-camilamaestrelli)
 
 <!--
 **camilamaestrelli/camilamaestrelli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
