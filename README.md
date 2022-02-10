@@ -29,8 +29,8 @@
 
 ## **My projects**
 
-* Meu 1º modelo de classificação [Diabetes Probability Prediction](https://github.com/camilamaestrelli/Diabetes_probability_prediction)
-* [Power BI](https://sites.google.com/view/portflio-bi-camilamaestrelli)
+* Meu 1º modelo de classificação: [Diabetes Probability Prediction](https://github.com/camilamaestrelli/Diabetes_probability_prediction)
+* Dashboards: [Power BI](https://sites.google.com/view/portflio-bi-camilamaestrelli)
 
 <!--
 **camilamaestrelli/camilamaestrelli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
