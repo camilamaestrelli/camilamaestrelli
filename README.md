@@ -29,7 +29,7 @@
 
 ## **My projects**
 
-* [Diabetes Probability Prediction](https://github.com/camilamaestrelli/Diabetes_probability_prediction)
+* Meu 1º modelo de classificação [Diabetes Probability Prediction](https://github.com/camilamaestrelli/Diabetes_probability_prediction)
 * [Power BI](https://sites.google.com/view/portflio-bi-camilamaestrelli)
 
 <!--
