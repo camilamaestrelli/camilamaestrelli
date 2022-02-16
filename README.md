@@ -18,6 +18,7 @@
 
 * 🐍 Python.
 * 🧮 Power BI.
+* 📈 Excel
 * 📊 Data Visualization.
 * 🔮 Machine Learning. 
 
