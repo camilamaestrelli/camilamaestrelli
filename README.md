@@ -18,7 +18,8 @@
 
 * 🐍 Python.
 * 🧮 Power BI.
-* 📊 Data Visualization
+* 📊 Data Visualization.
+* 🔮 Machine Learning. 
 
 
 ## Find me around the world :earth_americas:
