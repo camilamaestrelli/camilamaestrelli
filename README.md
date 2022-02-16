@@ -20,7 +20,7 @@
 * 🧮 Power BI.
 * 📈 Excel
 * 📊 Data Visualization.
-* 🔮 Machine Learning (Novice) - sklearn. 
+* 🔮 Machine Learning - Novice. 
 
 
 ## Find me around the world :earth_americas:
