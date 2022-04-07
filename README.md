@@ -9,7 +9,7 @@
 
 
 * 👩‍💻 Data Analyst
-* 📚 Data Science Student.
+* 📚 Data Science MBA Candidate
 * 👩‍🎓 Bachelor in Civil Engineering - UFRJ.
 * 🎓 Master in Transportation Engineering - IME.
 
