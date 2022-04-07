@@ -32,6 +32,7 @@
 ## **My projects**
 
 * A Regression Model: 1st place in the 7th FLAI Machine Learning Competition: [Wage Prediction](https://github.com/camilamaestrelli/Wage-Prediction-a-Regression-Competition)
+* A Classification Model: 3rd place in the 8th FLAI Machine Learning Competition: [Employee Churn](https://github.com/camilamaestrelli/Employee-Churn-Classification-Competition)
 * My 1st (Classification) Model: [Diabetes Probability Prediction](https://github.com/camilamaestrelli/Diabetes_probability_prediction)
 * Dashboards: [Power BI](https://sites.google.com/view/portflio-bi-camilamaestrelli)
 
