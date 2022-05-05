@@ -1,17 +1,20 @@
-### Hi there 👋
 
 
- # **Hi there! I'm Camila** 👩‍💻 👋 
-###  
+<h1 align="center"> Hi there!  👋 I'm Camila    <a href="https://www.linkedin.com/in/camila-maestrelli-leobons/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=flat&logo=linkedin&logoColor=white" target="_blank"></a>
+ 
 
 
 ## Who am I? 
 
 
-* 👩‍💻 Data Analyst
+* 👩‍💻 Data Analyst 
 * 📚 Data Science MBA Candidate
 * 👩‍🎓 Bachelor in Civil Engineering - UFRJ.
 * 🎓 Master in Transportation Engineering - IME.
+* 🔩 I am currently looking for a new job
+
+
+
 
 
 ## Skills 👩‍💻
@@ -25,7 +28,7 @@
 
 ## Find me around the world :earth_americas:
 
-*  [Linkedin](https://www.linkedin.com/in/camila-maestrelli-leobons/)
+ <a href="https://www.linkedin.com/in/camila-maestrelli-leobons/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /><a/>
 
 
 
@@ -35,6 +38,11 @@
 * A Classification Model: 3rd place in the 8th FLAI Machine Learning Competition: [Employee Churn](https://github.com/camilamaestrelli/Employee-Churn-Classification-Competition)
 * My 1st (Classification) Model: [Diabetes Probability Prediction](https://github.com/camilamaestrelli/Diabetes_probability_prediction)
 * Dashboards: [Power BI](https://sites.google.com/view/portflio-bi-camilamaestrelli)
+ 
+ 
+ <br>
+
+![Camila's github stats](https://github-readme-stats.vercel.app/api?username=camilamaestrelli&show_icons=true&theme=radical&hide_rank=false)
 
 <!--
 **camilamaestrelli/camilamaestrelli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
