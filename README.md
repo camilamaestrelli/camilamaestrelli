@@ -3,6 +3,9 @@
 <h1 align="center"> Hi there!  👋 I'm Camila    <a href="https://www.linkedin.com/in/camila-maestrelli-leobons/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=flat&logo=linkedin&logoColor=white" target="_blank"></a>
  
 
+## ![Profile view counter ](https://komarev.com/ghpvc/?username=camilamaestrelli&color=blue&style=for-the-badge)
+ 
+
 
 ## Who am I? 
 
