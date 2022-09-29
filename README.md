@@ -24,9 +24,9 @@
 
 * 🐍 Python.
 * 🧮 Power BI.
-* 📈 Excel
+* 📈 Excel;
 * 📊 Data Visualization.
-* 🔮 Machine Learning - Novice. 
+* 🔮 Machine Learning. 
 
 
 ## Find me around the world :earth_americas:
