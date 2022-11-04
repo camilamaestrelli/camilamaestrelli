@@ -24,9 +24,11 @@
 
 * 🐍 Python.
 * 🧮 Power BI.
-* 📈 Excel;
+* 📈 Excel.
+* 💻 SQL.
 * 📊 Data Visualization.
 * 🔮 Machine Learning. 
+* 🔮 PySpark.
 
 
 ## Find me around the world :earth_americas:
