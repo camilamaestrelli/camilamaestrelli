@@ -45,7 +45,7 @@
 * Telco Customer Churn: [Churn Model](https://github.com/camilamaestrelli/Telco-Customer-Churn)
 * My 1st (Classification) Model: [Diabetes Probability Prediction](https://github.com/camilamaestrelli/Diabetes_probability_prediction)
 * Dashboards: [Power BI](https://sites.google.com/view/portflio-bi-camilamaestrelli)
-* Simulation: [[Anylogic Models](https://cloud.anylogic.com/profile/user/5bf8ffb0-caba-47b8-8166-4aa6e15182ab) 
+* Simulation: [Anylogic Models](https://cloud.anylogic.com/profile/user/5bf8ffb0-caba-47b8-8166-4aa6e15182ab) 
  
  <br>
 
