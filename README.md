@@ -43,6 +43,7 @@
 * A Regression Model: 2nd place in the 9th FLAI Machine Learning Competition: [Demand Planning](https://github.com/camilamaestrelli/Demand-Forecasting-Regression_Competition)
 * A Classification Model: 3rd place in the 8th FLAI Machine Learning Competition: [Employee Churn](https://github.com/camilamaestrelli/Employee-Churn-Classification-Competition)
 * Telco Customer Churn: [Churn Model](https://github.com/camilamaestrelli/Telco-Customer-Churn)
+* MBA Projects: [Projects](https://github.com/camilamaestrelli/MBA_Data-Science/tree/main/Projects)
 * My 1st (Classification) Model: [Diabetes Probability Prediction](https://github.com/camilamaestrelli/Diabetes_probability_prediction)
 * Dashboards: [Power BI](https://sites.google.com/view/portflio-bi-camilamaestrelli)
 * Simulation: [Anylogic Models](https://cloud.anylogic.com/profile/user/5bf8ffb0-caba-47b8-8166-4aa6e15182ab) 
