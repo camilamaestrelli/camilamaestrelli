@@ -14,7 +14,7 @@
 * 📚 Data Science MBA Candidate
 * 👩‍🎓 Bachelor in Civil Engineering - UFRJ.
 * 🎓 Master in Transportation Engineering - IME.
-* 🔩 I am currently looking for a new job
+* 🔩 Analytics - BB
 
 
 
